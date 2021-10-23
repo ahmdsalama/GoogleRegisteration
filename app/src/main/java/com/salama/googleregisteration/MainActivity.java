@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
     // i do this as when start this one check if the user alrady logged or no if logged so go to profile with GooggleAccount
 
-
+    // function we created befor 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data)
     {
